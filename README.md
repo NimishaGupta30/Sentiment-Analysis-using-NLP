@@ -1,6 +1,6 @@
 # Sentiment Analysis using Natural Language Processing(NLP)
 
-![Sentiment Analysis](image) <!-- Replace with your image link -->
+![Sentiment Analysis](https://user-images.githubusercontent.com/86415241/134725150-6de8ff71-8233-429e-a026-d105fa57d6b5.png) 
 
 ## About
 
